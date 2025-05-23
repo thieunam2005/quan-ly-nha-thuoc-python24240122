@@ -27,7 +27,7 @@ avatar_photo = ImageTk.PhotoImage(avatar_img)
 avatar_label = tk.Label(sidebar, image=avatar_photo, bg="white")
 avatar_label.pack(pady=(20, 5))
 
-tk.Label(sidebar, text="ADMIN", bg="#f7971e", font=("Arial", 12, "bold")).pack()
+tk.Label(sidebar, text="NHÂN VIÊN", bg="#f7971e", font=("Arial", 12, "bold")).pack()
 
 menu_data = [
     ("Hóa đơn", "icon/bill.png"),
@@ -108,6 +108,6 @@ logo_img = logo_img.resize((250, 100))
 logo_photo = ImageTk.PhotoImage(logo_img)
 tk.Label(center_frame, image=logo_photo, bg="black").pack(pady=(0, 10))
 
-tk.Label(center_frame, text="-slogan-", font=("Arial", 12), fg="#f7971e", bg="black").pack()
+tk.Label(center_frame, text="THẦY NGHĨA ĐẸP TRAI CHO EM XIN 10 ĐIỂM Ạ !!!", font=("Arial", 12), fg="#f7971e", bg="black").pack()
 
 root.mainloop()
