@@ -1,0 +1,70 @@
+[
+  {
+    "maHoaDon": "8666304850",
+    "maKhachHang": "KH000",
+    "ngayBan": "2025-05-18 20:57",
+    "danhSachSanPham": [
+      {
+        "tenSanPham": "Thuốc Exopadin 60mg Trường Thọ điều trị viêm mũi dị ứng, mày đay (3 vỉ x 10 viên)",
+        "soLuong": 5,
+        "giaTien": 60000,
+        "thanhTien": 300000
+      }
+    ],
+    "tongTien": 300000
+  },
+  {
+    "maHoaDon": "5280802450",
+    "maKhachHang": "KH000",
+    "ngayBan": "2025-05-19 13:13",
+    "danhSachSanPham": [
+      {
+        "tenSanPham": "Thuốc chống say tàu xe Momvina Hadiphar điều trị chứng buồn nôn, nôn, chóng mặt (25 vỉ x 4 viên)",
+        "soLuong": 3,
+        "giaTien": 100000,
+        "thanhTien": 300000
+      },
+      {
+        "tenSanPham": "Lotion bôi da Oxy10 Rohto điều trị mụn bọc và mụn sưng đỏ (10g)",
+        "soLuong": 3,
+        "giaTien": 49000,
+        "thanhTien": 147000
+      },
+      {
+        "tenSanPham": "Gel bôi ngoài da Tazoretin điều trị mụn trứng cá vừa và nhẹ (30g)",
+        "soLuong": 9,
+        "giaTien": 53000,
+        "thanhTien": 477000
+      }
+    ],
+    "tongTien": 924000
+  },
+  {
+    "maHoaDon": "7985183468",
+    "maKhachHang": "00001",
+    "ngayBan": "2025-05-19 13:14",
+    "danhSachSanPham": [
+      {
+        "tenSanPham": "Thuốc Fefasdin 60 Khapharco điều trị viêm mũi dị ứng, mày đay mạn tính vô căn (10 vỉ x 10 viên)",
+        "soLuong": 3,
+        "giaTien": 850,
+        "thanhTien": 2550
+      }
+    ],
+    "tongTien": 2550
+  },
+  {
+    "maHoaDon": "1024969551",
+    "maKhachHang": "00003",
+    "ngayBan": "2025-05-19 16:34",
+    "danhSachSanPham": [
+      {
+        "tenSanPham": "Thuốc Exopadin 60mg Trường Thọ điều trị viêm mũi dị ứng, mày đay (3 vỉ x 10 viên)",
+        "soLuong": 5,
+        "giaTien": 60000,
+        "thanhTien": 300000
+      }
+    ],
+    "tongTien": 300000
+  }
+]

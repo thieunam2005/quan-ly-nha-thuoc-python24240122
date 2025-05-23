@@ -1,0 +1,20 @@
+[
+  {
+    "maKhachHang": "00001",
+    "tenKhachHang": "Joseph",
+    "soDienThoai": "0398812947",
+    "soLanMuaHang": 1
+  },
+  {
+    "maKhachHang": "00002",
+    "tenKhachHang": "Nick",
+    "soDienThoai": "0398812933",
+    "soLanMuaHang": 50
+  },
+  {
+    "maKhachHang": "00003",
+    "tenKhachHang": "Hải",
+    "soDienThoai": "984986321",
+    "soLanMuaHang": 1
+  }
+]

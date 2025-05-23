@@ -1,0 +1,12 @@
+[
+  {
+    "taiKhoan": "admin123",
+    "matKhau": "12345",
+    "vaiTro": "admin"
+  },
+  {
+    "taiKhoan": "NV123",
+    "matKhau": "12345",
+    "vaiTro": "employee"
+  }
+]
